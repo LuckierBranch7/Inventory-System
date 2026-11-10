@@ -219,7 +219,7 @@ def main():
             break
         else:
             clear_screen()
-            print('Input invalid. Pick an input between 1 and 4.\n')
+            print('Input invalid. Pick an input between 1 and 7.\n')
             continue
 
 main()
